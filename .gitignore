@@ -1,0 +1,48 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+
+venv/
+env/
+.venv/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Dataset
+
+dataset/
+data/
+
+# TensorFlow / Keras temporary files
+
+*.h5
+*.keras.tmp
+
+# Logs
+
+logs/
+*.log
+
+# Streamlit
+
+.streamlit/secrets.toml
+
+# VS Code
+
+.vscode/
+
+# Windows
+
+Thumbs.db
+Desktop.ini
+
+# Python cache
+
+.pytest_cache/
+.mypy_cache/
