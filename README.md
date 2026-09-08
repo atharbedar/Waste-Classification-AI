@@ -145,4 +145,8 @@ Deep Learning / AI Student
 
 ## ⭐ Project
 
+## 🚀 Live Demo
+
+👉 [Try Waste Classification AI](https://waste-classification-ai.streamlit.app/)
+
 If you find this project useful, you can give the repository a ⭐ on GitHub.
